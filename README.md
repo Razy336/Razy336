@@ -1,5 +1,5 @@
-## Hi there 👋
-😈
+### 😈Hi, I'm R4zy336.
+
 <!--
 **Razy336/Razy336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
